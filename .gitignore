@@ -3,3 +3,5 @@ node_modules/
 docs/
 .sass-cache/
 bin/
+/src/angularjs/nbproject/private/
+/src/nbproject/private/
